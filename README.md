@@ -1,6 +1,8 @@
 # eFLINT JSON Specification
 This repository contains examples and releases for the eFLINT JSON Specification. This is a formalization of the communication with an [eFLINT](https://gitlab.com/eflint) reasoner that acts as a server.
 
+**NOTICE**: This project has moved to GitLab (<https://gitlab.com/eflint/json-specification>).
+
 
 ## Structure
 This repository is structured as follows.
